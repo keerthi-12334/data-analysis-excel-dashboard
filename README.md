@@ -27,7 +27,7 @@ To analyze and visualize road accident data from 2021 and 2022 in order to ident
 - Interpretation – Derived insights on accident trends, severity, and contributing factors.
 
 ## dashboard
-<a href="https://github.com/keerthi-12334/data-analysis-excel-dashboard/blob/main/Road_Accident_Dashboard.xlsx">dashboard</a>
+<a href="https://github.com/keerthi-12334/data-analysis-excel-dashboard/blob/main/road%20accident%20dashboard%20image.png">dashboard</a>
 
 ## project insight
 
